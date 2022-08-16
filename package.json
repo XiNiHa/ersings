@@ -30,6 +30,5 @@
   "dependencies": {
     "@solidjs/router": "^0.4.2",
     "solid-js": "^1.4.7"
-  },
-  "packageManager": "yarn@3.2.2"
+  }
 }
